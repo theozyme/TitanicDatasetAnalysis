@@ -17,3 +17,8 @@ Bu repo, Kaggle platformunda gerçekleştirdiğim "Titanic Veri Seti ile Veri Bi
 
 * Find Missing Values: Eksik verilerle başa çıkma stratejileri geliştirerek analizdeki eksik verilerin etkisini azalttım.
 
+  # Kaggle platformunda oluşturduğum notebook linki
+
+  <a href="https://www.kaggle.com/code/ozancakir/titanic-project-by-ozancakir">Kaggle Notebook</a>
+  
+
